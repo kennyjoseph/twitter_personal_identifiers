@@ -1,6 +1,9 @@
 # Introduction
 
-This repository contains code, additional results, and anonymized annotation data, for our CSCW paper.  There are three directories here, described below.
+This repository contains code, additional results, and anonymized annotation data, for our recently accepted CSCW'22 paper.  A preprint of the paper is available in this repository, see ```paper_draft.pdf```.
+
+
+There are three directories here, described below.
 
 In addition, we include two other files:
 
