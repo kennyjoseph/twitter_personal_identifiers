@@ -1,6 +1,16 @@
 # Introduction
 
-This repository contains code, additional results, and anonymized annotation data, for our recently accepted CSCW'22 paper.  A preprint of the paper is available in this repository, see ```paper_draft.pdf```.
+This repository contains code, additional results, and anonymized annotation data, for our recently accepted CSCW'22 paper.  If you use this, please cite our paper (currently only the Arxiv version...)
+
+```
+@article{pathakMethodAnalyzeMultiple2021,
+  title = {A {{Method}} to {{Analyze Multiple Social Identities}} in {{Twitter Bios}}},
+  author = {Pathak, Arjunil and Madani, Navid and Joseph, Kenneth},
+  year = {2021},
+  month = jul,
+  language = {en}
+}
+```
 
 
 There are three directories here, described below.
